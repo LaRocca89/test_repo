@@ -1,0 +1,60 @@
+h1 {
+  font-family: helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("C:/Users/laroc/github/test_repo/dasmoto_arts_and_crafts/resources/pattern.jpeg");
+}
+
+h5 {
+  font-family: helvetica;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+p {
+  font-family: helvetica;
+}
+
+#figure {
+
+}
+
+#text_block {
+  font-family: helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+#price {
+  font-family: helvetica;
+  color: blue;
+  font-weight: bold;
+}
+
+#brush_head {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+#frames_head {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+
+#paint_head {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
