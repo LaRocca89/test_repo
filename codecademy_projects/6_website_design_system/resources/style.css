@@ -1,0 +1,16 @@
+nav {
+  position: absolute;
+  display: inline-block;
+}
+
+body{
+  position: relative;
+}
+
+h1 {
+  position: relative;
+  top:100px;
+  color: red;
+}
+
+foto
